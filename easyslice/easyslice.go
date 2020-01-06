@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"strconv"
 )
+
 func RemoveStringFromSlice(slc []string, s string) []string {
 	newSlice := make([]string, 0)
 	for _, v := range slc {
@@ -14,6 +15,7 @@ func RemoveStringFromSlice(slc []string, s string) []string {
 	slc = nil
 	return newSlice
 }
+
 func IterSlice(slc []string) {
 	for _,v := range slc { fmt.Println(v) }
 }
