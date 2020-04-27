@@ -1,13 +1,15 @@
 # README
-## This is the README for your extension "purpleheart"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Purple Heart Theme for Visual Studio Code
+This is my first attempt at making a theme for Visual Studio Code, but won't be my last.
+This theme features a soothing Purple palette with minimal changes to syntax highlighting.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### TODO:
+* Improve contrast
+* Bring in another color, probably a very dark blue-purple.
+* Assess usability then break the theme into several projects: light & dark
+* Experiment more with syntax highlighting.
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Welcome to use it and play around with it. No guarantees though.
 
 **Enjoy!**
